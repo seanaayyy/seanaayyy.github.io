@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/Bird.h
+iostream
+-
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/shape.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/circle.h
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/shape.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/graphics.cpp
+graphics.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/graphics.h
+circle.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/circle.h
+rect.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/rect.h
+Bird.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/Bird.h
+iostream
+-
+memory
+-
+vector
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/graphics.h
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/rect.h
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/shape.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/-M4OEP-Graphics-sander15/shape.h
+math.h
+-
+string
+-
+

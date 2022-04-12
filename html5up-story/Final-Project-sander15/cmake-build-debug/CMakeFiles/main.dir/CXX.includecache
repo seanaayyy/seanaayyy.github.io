@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/circle.cpp
+circle.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/circle.h
+graphics.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/circle.h
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/shape.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.cpp
+graphics.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.h
+circle.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/circle.h
+rect.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/rect.h
+letterButton.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/letterButton.h
+word.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/word.h
+iostream
+-
+iomanip
+-
+memory
+-
+string
+-
+vector
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.h
+stdlib.h
+-
+string
+-
+vector
+-
+word.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/word.h
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/letterButton.cpp
+letterButton.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/letterButton.h
+graphics.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/letterButton.h
+circle.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/circle.h
+string
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/rect.cpp
+rect.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/rect.h
+graphics.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/graphics.h
+iostream
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/rect.h
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/shape.h
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/shape.cpp
+shape.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/shape.h
+iostream
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/shape.h
+math.h
+-
+string
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/testing.cpp
+letterButton.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/letterButton.h
+word.h
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/word.h
+vector
+-
+iostream
+-
+
+/Users/seananderson/Library/Mobile Documents/com~apple~CloudDocs/Documents/Junior (2020-2021)/Second Semester/CS120/Final-Project-sander15/word.h
+iomanip
+-
+fstream
+-
+string
+-
+vector
+-
+
